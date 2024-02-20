@@ -31,4 +31,4 @@ Este proyecto implementa un sistema de login utilizando Node.js y varias depende
 ## Ejecución
 
 Desde la terminal entra en la carpeta 📂  "src" y ejecuta el comando "npm run dev".  
-Prodras acceder a la aplicacion web que se encuentra en la http://localhost:8080/)http://localhost:8080/ por defecto
+Prodras acceder a la aplicacion web que se encuentra en la http://localhost:8080 por defecto
